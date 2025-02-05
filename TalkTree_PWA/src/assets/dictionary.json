@@ -1,0 +1,78 @@
+{
+  "paths": {
+    "dirs": {
+      "conf": "Einstellungen",
+      "audio": "Audio",
+      "images": "Bilder",
+      "desktop": "Desktop"
+    },
+    "files": {
+      "api_speechgen": "Speechgen.txt",
+      "colors": "Farben.txt",
+      "settings": "Einstellungen.txt",
+      "xlsx": "TalkTree.xlsx",
+      "server_id": "Server-ID.txt",
+      "new_words": "Neu.txt",
+      "image_template": "Vorlage.png",
+      "image_template2": "Vorlage_Untertitel.png"
+    }
+  },
+  "settings": {
+    "fileName": "Einstellungen",
+    "title": "Einstellungen",
+    "data": {
+      "rows": "Zeilen",
+      "cols": "Spalten",
+      "aspect_ratio": "Seitenverhältnis",
+      "radius": "Radius",
+      "input": "Swipe",
+      "emoji_size": "Emoji Größe"
+    }
+  },
+  "colors": {
+    "fileName": "Farben",
+    "title": "Farben",
+    "data": {
+      "black": "Schwarz",
+      "white": "Weiss",
+      "red": "Rot",
+      "orange": "Orange",
+      "yellow": "Gelb",
+      "green": "Grün",
+      "blue": "Blau",
+      "purple": "Lila"
+    }
+  },
+  "colors_default": {
+    "title": "Standardfarben",
+    "data": {
+      "background": "Hintergrund",
+      "button": "Knopf",
+      "text": "Text"
+    }
+  },
+  "api_speechgen": {
+    "title": "Speechgen",
+    "data": {
+      "token": "API-Token",
+      "email": "E-Mail",
+      "voice": "Stimme"
+    },
+    "prompt": {
+      "confirmation": {
+        "title": "API Anfrage",
+        "text": "$ Dateien herunterladen?"
+      }
+    }
+  },
+  "samples": {
+    "mom": "Mama",
+    "dad": "Papa",
+    "grandma": "Oma",
+    "grandpa": "Opa"
+  },
+  "misc": {
+    "boolean_true": "ja",
+    "boolean_false": "nein"
+  }
+}
